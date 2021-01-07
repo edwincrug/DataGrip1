@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="192.168.20.3" uuid="f566a004-f147-4d68-8638-60c790daf1e5">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://192.168.20.3;database=ASEPROT</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="192.168.20.29" uuid="360200d0-67b9-47ef-85fc-b96d2048c9e3">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://192.168.20.29</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="192.168.20.137" uuid="752a1885-aeb6-4532-b1af-ca360b46ed27">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>192.168.20.137</remarks>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://192.168.20.137</jdbc-url>
+    </data-source>
+  </component>
+</project>
